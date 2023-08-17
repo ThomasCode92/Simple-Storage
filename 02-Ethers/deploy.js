@@ -1,5 +1,4 @@
 const fs = require("fs");
-
 const ethers = require("ethers");
 
 async function main() {
@@ -24,6 +23,9 @@ async function main() {
 
   const contract = await contractFactory.deploy({ gasLimit: 3000000 });
   console.log(contract);
+
+  const deploymentReceipt = await contract.deploymentTransaction().wait(1);
+  console.log(deploymentReceipt);
 }
 
 main()
