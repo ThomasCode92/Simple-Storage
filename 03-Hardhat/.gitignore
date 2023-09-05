@@ -1,7 +1,5 @@
 node_modules
 .env
-coverage
-coverage.json
 typechain
 typechain-types
 
@@ -10,4 +8,6 @@ cache
 artifacts
 
 # Test Results
+coverage
+coverage.json
 gas-report.txt
