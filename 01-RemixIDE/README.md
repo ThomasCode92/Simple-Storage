@@ -1,6 +1,6 @@
-# Block-Storage
+# Simple Storage
 
-This version of _Block-Storage_ is built in the [Remix IDE](https://remix.ethereum.org/).<br />
+This version of _Simple Storage_ is built in the [Remix IDE](https://remix.ethereum.org/).<br />
 
 ## Remix IDE
 

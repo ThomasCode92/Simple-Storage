@@ -1,6 +1,6 @@
-# Block-Storage
+# Simple Storage
 
-This version of _Block-Storage_ is built with [Ethers.js](https://ethers.org/).<br />
+This version of _Simple Storage_ is built with [Ethers.js](https://ethers.org/).<br />
 
 ## Ethers.js
 
